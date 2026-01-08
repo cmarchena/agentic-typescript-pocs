@@ -1,0 +1,6 @@
+[submodule "mcp-server"]
+	path = mcp-server
+	url = https://github.com/cmarchena/mcp-server
+[submodule "mcp-client"]
+	path = mcp-client
+	url = https://github.com/cmarchena/mcp-client

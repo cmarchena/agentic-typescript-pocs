@@ -1,0 +1,18 @@
+{
+	"name": "agentic-typescript-pocs",
+	"version": "1.0.0",
+	"description": "Proof of concepts for Agentic in TypeScript",
+	"type": "module",
+	"scripts": {
+		"dev": "tsx watch src/index.ts",
+		"mcp": "tsx watch src/MCP.ts",
+		"rag": "tsx watch src/RAG.ts"
+	},
+	"devDependencies": {
+		"tsx": "^4.21.0"
+	},
+	"dependencies": {
+		"@modelcontextprotocol/sdk": "^1.25.1",
+		"typescript": "^5.9.3"
+	}
+}
